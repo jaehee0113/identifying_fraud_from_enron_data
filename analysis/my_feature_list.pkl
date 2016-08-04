@@ -1,0 +1,8 @@
+(lp0
+S'poi'
+p1
+aS'cash_received'
+p2
+aS'poi_interaction_ratio'
+p3
+a.
